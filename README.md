@@ -1,4 +1,4 @@
-# shop-front
+# cra-shop-front
 
 ## Customize configuration
 
