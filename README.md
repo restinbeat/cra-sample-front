@@ -1,4 +1,4 @@
-# cra-shop-front
+# cra-sample-front
 
 ## Customize configuration
 
@@ -6,7 +6,7 @@ See Configuration Reference [Create React App](https://github.com/facebook/creat
 
 ## 🐣 About
 
-** 쇼핑몰 frontend **
+** sample(toy) frontend **
 
 - react: 18
 - tailwind: 3
