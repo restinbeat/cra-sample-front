@@ -4,7 +4,7 @@ import BasicLayout from '../layouts/BasicLayout';
 function AboutPage(props) {
   return (
     <BasicLayout>
-      <div className={'text-3xl'}>Main Page</div>
+      <div className={'text-3xl'}>About Page</div>
     </BasicLayout>
   );
 }
